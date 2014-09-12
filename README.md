@@ -1,4 +1,4 @@
 test_repo
 =========
 
-This is a test repo exercisde
+This is a test repo exercise
